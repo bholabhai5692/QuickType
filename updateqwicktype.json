@@ -1,0 +1,30 @@
+{
+  "app_unique_id": "com.aistudio.qmkkeyboard.ajay",
+  "package_name": "com.example",
+  "app_name": "QMK Custom Keyboard",
+  "app_version": "v0.2.1",
+  "version_code": 21,
+  "min_required_version": "v0.0.1",
+  "min_supported_version_code": 1,
+  "is_mandatory_update": false,
+  "release_type": "stable",
+  "release_date": "2026-08-15T00:00:00Z",
+  "download_url": "https://github.com/ajayraoji/djremixpro.in/releases/download/v0.2.1/qmk_keyboard_v0.2.1.apk",
+  "fallback_download_url": "https://raw.githubusercontent.com/ajayraoji/djremixpro.in/main/releases/qmk_keyboard_v0.2.1.apk",
+  "apk_size_bytes": 18450210,
+  "apk_size_formatted": "17.6 MB",
+  "sha256_checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "min_android_sdk": 26,
+  "target_android_sdk": 34,
+  "title": "Major Feature & Performance Update",
+  "changelog_summary": "Direct in-app fast update support, typing speed enhancements, and battery optimizations.",
+  "changelog_details": [
+    "🚀 1-Click Fast Direct Download via GitHub Releases",
+    "⚡ Instant Auto-Prompt Package Installer on download finish",
+    "🎨 3 New High-Contrast Mechanical Keyboard Themes",
+    "🛡️ SHA-256 binary validation for secure installation",
+    "🐛 Fixed background scraper connection timeout"
+  ],
+  "contact_support_email": "bholabhai5692@gmail.com",
+  "project_homepage": "https://github.com/ajayraoji/djremixpro.in"
+}
