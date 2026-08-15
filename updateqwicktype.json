@@ -6,7 +6,7 @@
   "build_channel": "stable",
   "latest_version": "0.0.2",
   "latest_version_code": 2,
-  "min_required_version": "0.0.1",
+  "min_required_version": "0.0.2",
   "min_required_version_code": 1,
   "min_supported_sdk": 24,
   "target_sdk": 36,
